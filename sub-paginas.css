@@ -1,0 +1,48 @@
+header {
+    background: red;
+    width: 100%;
+    height: 100%;
+}
+
+main {
+    background: black;
+    height: 2000px;
+}
+
+.botao-home {
+    position: absolute;
+    color: rgb(0, 0, 0);    
+    top: 85px;
+    right: 400px; 
+    font-size: 50px;
+    font-weight: 100;
+    font-weight: bold;
+}
+
+.botao-home:hover { 
+    transform: scale(1.5);
+    transition: 2s;
+}
+
+h1 img {
+    width: 300px;
+    height: 200px;
+    padding-left: 300px;
+}
+
+.titulo {
+    position: absolute;
+    padding-left: 50px;
+    font-weight: bold;
+    padding-top: 60px;
+    font-size: 100px;
+    top: 0;
+}
+
+ul img {
+    width: 300px;
+    height: 400px;
+    max-width: 18%;
+    padding-left: 20px;
+    padding-top: 40px;
+}
