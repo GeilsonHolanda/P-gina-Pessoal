@@ -6,6 +6,8 @@ header {
 
 main, body {
     background: black;
+    height:  600px;
+       
 }
 
 .botao-home {
@@ -76,4 +78,5 @@ ul img {
     text-align: center;
     color: white;
     font-size: 25px;
+    height: 50px;    
 }
